@@ -1,0 +1,28 @@
+{
+    "hostname": "fake_user",
+    "system": {
+        "Operating System": "Windows",
+        "OS Version": "Microsoft Windows 11 PRO",
+        "Kernel Version": "10.0.22631",
+        "Architecture": "64bit"
+    },
+    "software_count": 2885,
+    "ports": [
+        "10",
+        "3389",
+        "22",
+        "445",
+        "137",
+        "138",
+        "139",
+        "34287",
+        "36491",
+        "3702",
+        "39517",
+        "41889",
+        "42108",
+        "445",
+        "5353",
+        "9843"
+    ]
+}

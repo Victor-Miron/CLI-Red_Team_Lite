@@ -1,0 +1,24 @@
+{
+    "hostname": "kali",
+    "system": {
+        "Operating System": "Linux",
+        "OS Version": "#1 SMP PREEMPT_DYNAMIC Kali ",
+        "Kernel Version": "6.18.5+kali-amd64",
+        "Architecture": "64bit"
+    },
+    "software_count": 2885,
+    "ports": [
+        "137",
+        "138",
+        "139",
+        "34287",
+        "36491",
+        "3702",
+        "39517",
+        "41889",
+        "42108",
+        "445",
+        "5353",
+        "9843"
+    ]
+}

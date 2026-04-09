@@ -1,0 +1,11 @@
+{
+    "hostname": "macbook-pro-01",
+    "system": {
+        "Operating System": "macOS",
+        "OS Version": "macOS Sonoma 14.4",
+        "Kernel Version": "23.4.0",
+        "Architecture": "64bit"
+    },
+    "software_count": 220,
+    "ports": ["22", "5000"]
+}
